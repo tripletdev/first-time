@@ -1,8 +1,3 @@
-Here is a clean, well-structured `README.md` template you can copy and paste directly into your GitHub repository to keep your daily commit streak alive!
-
----
-
-# 🐍 100 Days of Python & Brainrot Code
 
 Welcome to my Python learning journey! I'm a 14-year-old developer from India building a daily coding habit, learning programming fundamentals, and pushing commits every single day.
 
