@@ -1,5 +1,5 @@
 
-Welcome to my Python learning journey! I'm a 14-year-old developer from India building a daily coding habit, learning programming fundamentals, and pushing commits every single day.
+Welcome to my Python learning journey! I'm a Young developer from India building a daily coding habit, learning programming fundamentals, and pushing commits every single day.
 
 ---
 
